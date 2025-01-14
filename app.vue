@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full relative">
+  <div class="w-full relative bg-[#FFF6DB]">
     <Header/>
     <NuxtPage/>
     <Footer/>

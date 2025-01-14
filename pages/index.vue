@@ -1,5 +1,7 @@
 <template>
-    <HomeIntro/>
+    <div class="bg-[#FFF6DB]">
+        <HomeIntro/>
+    </div>
 </template>
 
 <script setup>

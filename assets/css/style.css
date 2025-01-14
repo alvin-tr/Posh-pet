@@ -5,3 +5,7 @@ html {
     color: white;
     line-height: 20px;
 }
+    /* font-family: 'Bebas Neue', sans-serif; */
+.fontBebas {
+    font-family: 'Bebas Neue', sans-serif;
+}

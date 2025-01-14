@@ -1,7 +1,7 @@
 <template>
-  <div class="w-full bg-[#F4E8C3] flex justify-center">
+  <div class="w-full bg-[#FFF6DB] flex justify-center">
     <div
-      class="max-w-[1440px] w-full bg-[#F4E8C3] px-[80px] h-[72px] flex flex-row justify-between
+      class="max-w-[1440px] w-full bg-[#FFF6DB] px-[80px] h-[72px] flex flex-row justify-between
       max-size-lg:px-[50px]
       max-size-lg1:px-[30px]
       "
