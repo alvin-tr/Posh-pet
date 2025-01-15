@@ -1,6 +1,9 @@
 <template>
     <div class="bg-[#FFF6DB]">
         <HomeIntro/>
+        <HomeOurService/>
+        <HomeBrandSwiper/>
+        <HomeOurProduct/>
     </div>
 </template>
 
