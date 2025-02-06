@@ -1,7 +1,8 @@
 <template>
-  <BaseLayout>
+  <div class="bg-[#F2F3F7] mb-[100px]">
+    <BaseLayout>
     <!-- title -->
-    <div class="flex flex-row mt-[100px] items-center justify-between">
+    <div class="flex flex-row mt-[100px] items-center justify-between mb-[40px]">
       <p
         class="fontBebas text-[#DB2316] text-[120px] font-normal leading-[100px]"
       >
@@ -107,6 +108,7 @@
       </div>
     </div>
   </BaseLayout>
+  </div>
 </template>
 
 <script setup>

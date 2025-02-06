@@ -1,12 +1,15 @@
 <template>
-  <div class="mt-[88px]">
-    <div class="bg-[#FFF6DB] relative z-10">
+  <div class="mt-[88px] w-full flex flex-col items-center justify-center ">
+    <div class="bg-[#FFF6DB] relative z-10 max-size-xl:px-[80px] max-size-2xl:px-[120px]">
       <p
-        class="fontBebas text-[232px] leading-[200px] text-[#DB2316] text-center"
+        class="fontBebas text-[232px] leading-[200px] text-[#DB2316] text-center
+        
+        "
       >
         Pawfectly Yours
       </p>
-      <div class="flex flex-row items-end justify-end">
+      <!-- button -->
+      <div class="flex flex-row items-end justify-end max-size-2xl:mt-[50px]">
         <UButton class="px-[20px] py-[15px] bg-white rounded-full">
           <p class="text-[#DB2316] text-[20px] leading-[32px] font-[510]">
             OUR PRODUCT
@@ -20,9 +23,12 @@
           </p>
         </UButton>
       </div>
-
+      <!-- dog and des-->
       <div
-        class="w-full absolute top-[120px] left-[-40px] flex flex-row"
+        class="w-full absolute left-0 flex flex-row
+        max-size-xl:px-[80px] max-size-xl:top-[120px]
+        max-size-2xl:px-[120px] max-size-2xl:top-[200px]
+        "
       >
         <img
           src="/img/dogInSectionHome.svg"
@@ -35,7 +41,7 @@
         </p>
       </div>
     </div>
-    <div class="z-50 relative mt-[530px]">
+    <div class="z-50 relative w-full mt-[530px] max-size-2xl:mt-[700px]">
       <img src="/img/sectionHomeBehindDog.svg" class="w-full" />
     </div>
   </div>
