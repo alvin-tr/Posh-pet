@@ -4,6 +4,9 @@
         <HomeOurService/>
         <HomeBrandSwiper/>
         <HomeOurProduct/>
+        <HomeWhyChooseUs/>
+        <HomeCustomerRate/>
+        <HomeDailyNews/>
     </div>
 </template>
 
