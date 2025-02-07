@@ -1,12 +1,12 @@
 <template>
-  <div class="bg-[#F2F3F7] mb-[100px]">
+  <div class="bg-[#F2F3F7] pb-[180px]">
     <BaseLayout>
     <!-- title -->
     <div class="flex flex-row mt-[100px] items-center justify-between mb-[40px]">
       <p
-        class="fontBebas text-[#DB2316] text-[120px] font-normal leading-[100px]"
+        class="fontBebas uppercase text-[#DB2316] text-[120px] font-normal leading-[100px]"
       >
-        OUR Products
+        our products
       </p>
       <div
         class="flex flex-row items-center py-[15px] px-[30px] rounded-[49px] bg-[#10131D1A]"

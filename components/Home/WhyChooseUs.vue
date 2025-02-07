@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full bg-[#F2F3F7] py-[92px] px-[80px]">
+    <div class="w-full bg-[#F2F3F7] pb-[92px] px-[80px]">
         <BaseLayout>
             <div class="flex flex-col items-center justify-center">
                 <p class="fontBebas text-[#DB2316] text-[120px] font-normal leading-[100px]">WHY CHOOSE US?</p>
